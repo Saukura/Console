@@ -1,0 +1,16 @@
+{
+  "name": "zhengya/console",
+  "description": "命令行",
+  "authors": [
+    {
+      "name": "ZhengYa",
+      "email": "214598929@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Command\\": "src/"
+    }
+  }
+}
