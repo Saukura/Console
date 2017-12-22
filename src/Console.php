@@ -16,11 +16,4 @@ class Console extends Kernel
         'example' => Example::class,
     ];
 
-
-    protected function output(string $output)
-    {
-        parent::output($output);
-
-    }
-
 }
